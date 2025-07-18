@@ -11,7 +11,7 @@ The codebase is structured for research, simulation, and AI experimentation.
 
 You can read the concise summary of the solution in the following PDF:
 
-👉 [Read the Summary PDF](docs/three_body_summary_solution.pdf)
+👉 [Read the Summary PDF](Docs/three_body_summary_solution.pdf)
 
 
 ## 📚 Table of Contents
