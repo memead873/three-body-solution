@@ -7,6 +7,12 @@ The codebase is structured for research, simulation, and AI experimentation.
 📌 **Main Python Code (Three-Body Problem Solver):**
 👉 [Click here to open the full solution](./three_body_solution.py)
 ---
+## 📄 Summary Paper
+
+You can read the concise summary of the solution in the following PDF:
+
+👉 [Read the Summary PDF](docs/three_body_summary_solution.pdf)
+
 
 ## 📚 Table of Contents
 
