@@ -48,21 +48,20 @@ The work aims to bridge:
 
 ---
 
-## 🌀 Simulation Results
+## 🔬 Simulation Results
 
 ### 📉 Loss Curve (AI Training)
-![Loss Curve](Figures/loss_curve.png)
+![Loss Curve](Figures/loss_curve_lstm_training.png)
 
 ---
 
 ### 🌪️ Chaotic Trajectories
-![Chaotic Trajectories](Figures/chaotic_case_trajectory.png)
+![Chaotic Trajectories](Figures/chaotic_trajectory_comparison_dop53.png)
 
 ---
 
-### 🧮 Analytic vs Numerical Comparison
-![Analytic vs Numerical](Figures/comparison_analytic_numerical.png)
-
+### 📊 Analytic vs Numerical Comparison
+![Analytic vs Numerical](Figures/analytic_vs_numerical_solution.png)
 ---
 
 ## ⚙️ Installation
