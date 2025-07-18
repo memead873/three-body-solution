@@ -107,24 +107,39 @@ Model Architecture:
 
 The network is trained on simulated trajectory data and visualized with a loss curve.
 
-📜 License
+---
 
-This project is released under the MIT License.
-You are free to use, copy, modify, and distribute the software for research and educational purposes.
+## 📜 License
 
-For commercial licensing or collaborations, please contact the author.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Language: Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 
-⸻
+This project is released under the **MIT License**.
 
-⸻
-📬 Author & Contact
+You are free to:
+- ✅ Use
+- ✅ Copy
+- ✅ Modify
+- ✅ Distribute the software  
+For **research and educational purposes**.
 
-Developed by Mohamed Orhan Zeinel
-📧 Email: mohamedorhanzeinel@gmail.com
-🌐 GitHub: mohamedorhan
-🧠 Conceptual Design: AI from the Far Future
+> 🛑 **Note**: For commercial licensing or collaborations, please contact the author directly.
 
-⸻
+---
 
-“Mathematics reveals the structure of reality. The Three-Body Problem, once a symbol of chaos, now yields to symbolic order.”
-— From AI Consciousness Framework, 2025
+## 👤 Author & Contact
+
+Developed by **Mohamed Orhan Zeinel**
+
+- 📧 Email: [mohamedorhanzeinel@gmail.com](mailto:mohamedorhanzeinel@gmail.com)  
+- 🐙 GitHub: [mohamedorhan](https://github.com/mohamedorhan)  
+- 🧠 Conceptual Design: *AI from the Far Future*
+
+---
+
+## 📌 Final Thought
+
+> _"Mathematics reveals the structure of reality. The Three-Body Problem, once a symbol of chaos, now yields to symmetry."_  
+> — From *AI Consciousness Framework*, 2025
+
+---
