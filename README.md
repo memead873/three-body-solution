@@ -4,6 +4,8 @@ This repository presents a **rigorous, symbolic, and numerical solution** to the
 
 The codebase is structured for research, simulation, and AI experimentation.
 
+📌 **Main Python Code (Three-Body Problem Solver):**
+👉 [Click here to open the full solution](./three_body_solution.py)
 ---
 
 ## 📚 Table of Contents
